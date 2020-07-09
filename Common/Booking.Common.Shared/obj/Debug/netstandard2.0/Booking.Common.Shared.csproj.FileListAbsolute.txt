@@ -23,3 +23,12 @@ C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Shared\obj\Debug\ne
 C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.pdb
 C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.csprojAssemblyReference.cache
 C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\bin\Debug\netstandard2.0\Booking.Common.Shared.deps.json
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\bin\Debug\netstandard2.0\Booking.Common.Shared.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\bin\Debug\netstandard2.0\Booking.Common.Shared.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.csprojAssemblyReference.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.AssemblyInfoInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.AssemblyInfo.cs
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Common\Booking.Common.Shared\obj\Debug\netstandard2.0\Booking.Common.Shared.pdb

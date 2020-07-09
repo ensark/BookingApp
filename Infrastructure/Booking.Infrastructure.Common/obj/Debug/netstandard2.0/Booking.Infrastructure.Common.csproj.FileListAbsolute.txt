@@ -28,3 +28,17 @@ C:\Repos\BookingApp\bookingapi\Booking\Infrastructure\Booking.Infrastructure.Com
 C:\Repos\BookingApp\bookingapi\Booking\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.dll
 C:\Repos\BookingApp\bookingapi\Booking\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.pdb
 C:\Repos\BookingApp\bookingapi\Booking\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Infrastructure.Common.deps.json
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Infrastructure.Common.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Infrastructure.Common.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Core.Domain.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Core.Domain.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.csprojAssemblyReference.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.AssemblyInfoInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.AssemblyInfo.cs
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.csproj.CopyComplete
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Infrastructure\Booking.Infrastructure.Common\obj\Debug\netstandard2.0\Booking.Infrastructure.Common.pdb

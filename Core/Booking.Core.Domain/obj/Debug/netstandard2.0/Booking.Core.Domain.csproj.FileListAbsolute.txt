@@ -26,3 +26,15 @@ C:\Repos\BookingApp\bookingapi\Booking\Core\Booking.Core.Domain\obj\Debug\netsta
 C:\Repos\BookingApp\bookingapi\Booking\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.dll
 C:\Repos\BookingApp\bookingapi\Booking\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.pdb
 C:\Repos\BookingApp\bookingapi\Booking\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\bin\Debug\netstandard2.0\Booking.Core.Domain.deps.json
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\bin\Debug\netstandard2.0\Booking.Core.Domain.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\bin\Debug\netstandard2.0\Booking.Core.Domain.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.pdb
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.csprojAssemblyReference.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.AssemblyInfoInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.AssemblyInfo.cs
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.csproj.CopyComplete
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.dll
+C:\Repos\BookingApp\bookingapi\BookingApp\Core\Booking.Core.Domain\obj\Debug\netstandard2.0\Booking.Core.Domain.pdb
