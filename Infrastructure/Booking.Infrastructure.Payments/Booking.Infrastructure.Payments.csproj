@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PayPal" Version="2.0.0-rc2" />
+    <PackageReference Include="Stripe.net" Version="34.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Booking.Core.Domain\Booking.Core.Domain.csproj" />
+    <ProjectReference Include="..\Booking.Infrastructure.Common\Booking.Infrastructure.Common.csproj" />
+  </ItemGroup>
+
+</Project>

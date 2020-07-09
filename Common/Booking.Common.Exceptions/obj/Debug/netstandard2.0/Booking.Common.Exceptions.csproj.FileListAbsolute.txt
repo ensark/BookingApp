@@ -1,0 +1,17 @@
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.deps.json
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.dll
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.pdb
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.csprojAssemblyReference.cache
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.AssemblyInfoInputs.cache
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.AssemblyInfo.cs
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.dll
+C:\Users\ensarka\source\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.pdb
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.deps.json
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.dll
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\bin\Debug\netstandard2.0\Booking.Common.Exceptions.pdb
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.AssemblyInfoInputs.cache
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.AssemblyInfo.cs
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.dll
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.pdb
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.csprojAssemblyReference.cache
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.Exceptions\obj\Debug\netstandard2.0\Booking.Common.Exceptions.csproj.CoreCompileInputs.cache

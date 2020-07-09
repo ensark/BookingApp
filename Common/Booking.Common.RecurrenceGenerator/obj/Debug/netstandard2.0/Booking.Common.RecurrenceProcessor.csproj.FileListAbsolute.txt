@@ -1,0 +1,9 @@
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.deps.json
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.dll
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\bin\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.pdb
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.AssemblyInfoInputs.cache
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.AssemblyInfo.cs
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.dll
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.pdb
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.csprojAssemblyReference.cache
+C:\Repos\BookingApp\bookingapi\Booking\Common\Booking.Common.RecurrenceGenerator\obj\Debug\netstandard2.0\Booking.Common.RecurrenceProcessor.csproj.CoreCompileInputs.cache

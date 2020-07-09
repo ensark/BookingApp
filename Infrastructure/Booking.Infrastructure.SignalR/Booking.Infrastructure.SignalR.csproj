@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Chat\Hubs\yvsylc2c.4ga~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Booking.Core.Domain\Booking.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Booking.Core.Services\Booking.Core.Services.csproj" />
+    <ProjectReference Include="..\Booking.Infrastructure.Database\Booking.Infrastructure.Database.csproj" />
+  </ItemGroup>
+
+</Project>

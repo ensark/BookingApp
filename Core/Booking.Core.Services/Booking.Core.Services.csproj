@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HangFire" Version="1.7.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Booking.Common.Exceptions\Booking.Common.Exceptions.csproj" />
+    <ProjectReference Include="..\..\Common\Booking.Common.RecurrenceGenerator\Booking.Common.RecurrenceProcessor.csproj" />
+    <ProjectReference Include="..\..\Common\Booking.Common.Shared\Booking.Common.Shared.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Booking.Infrastructure.Common\Booking.Infrastructure.Common.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Booking.Infrastructure.Database\Booking.Infrastructure.Database.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Booking.Infrastructure.Payments\Booking.Infrastructure.Payments.csproj" />
+    <ProjectReference Include="..\Booking.Core.Domain\Booking.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

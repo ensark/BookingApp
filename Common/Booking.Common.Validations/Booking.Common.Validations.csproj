@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Booking.Core.Domain\Booking.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Booking.Core.Services\Booking.Core.Services.csproj" />
+  </ItemGroup>
+
+</Project>
